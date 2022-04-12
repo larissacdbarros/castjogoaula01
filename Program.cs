@@ -6,7 +6,7 @@ namespace JogoAula01
     {
         static void Main(string[] args)
         {
-            bool continuar = true;
+           
             int i = 0;
             while (continuar)
             {
